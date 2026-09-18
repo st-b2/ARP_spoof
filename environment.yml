@@ -1,0 +1,8 @@
+name: arp_spoof
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - scapy
+  - pip
+  - pip:
