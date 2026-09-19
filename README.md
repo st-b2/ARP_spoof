@@ -67,7 +67,7 @@
 В репозитории лежит environment.yml — он создаёт окружение arp_spoof
 со всеми зависимостями.
 ```bash
-git clone https://github.com/<ваш-ник>/arp-spoofing.git
+git clone https://github.com/st-b2/arp-spoofing.git
 cd arp-spoofing
 
 conda env create -f environment.yml
@@ -77,7 +77,7 @@ conda activate arp_spoof
 
 Если conda нет под рукой:
 ```bash
-git clone https://github.com/<ваш-ник>/arp-spoofing.git
+git clone https://github.com/st-b2/arp-spoofing.git
 cd arp-spoofing
 
 python3 -m venv venv
